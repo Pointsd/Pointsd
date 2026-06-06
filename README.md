@@ -9,7 +9,7 @@
   <a href="https://nxa-group.uz">
     <img src="https://img.shields.io/badge/Website-nxa--group.uz-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://www.upwork.com/freelancers/~YOUR_ID">
+  <a href="https://www.upwork.com/freelancers/~0176ccfdc799bf5e71">
     <img src="https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork">
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Tashkent,%20UZ-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
@@ -58,6 +58,6 @@ I design and build production-grade software end to end — web platforms, ERP s
 ### Connect
 
 - Website — [nxa-group.uz](https://nxa-group.uz)
-- Upwork — [Hire me on Upwork](https://www.upwork.com/freelancers/~YOUR_ID)
+- Upwork — [Hire me on Upwork](https://www.upwork.com/freelancers/~0176ccfdc799bf5e71)
 
 <sub>Founder &amp; Lead Engineer at NXA Group — I don't just write code, I engineer systems that work.</sub>
