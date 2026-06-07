@@ -81,7 +81,7 @@ I don't just write features — I **architect and own entire systems** end to en
 | :--- | :--- |
 | **Ankaa Platform** | Offline-first ERP / POS / CRM · 45 DB tables · 205+ routes · 368 tests · FIFO costing · Win/macOS/Linux |
 | **Constitutional Court of Uzbekistan** | Multilingual PWA · QR access control · 3 languages · 9 serverless APIs |
-| **Imam Al-Bukhari Memorial Complex** | 4-language platform · Payme / Click / OFB payments · headless CMS · Docker |
+| **Imam Al-Bukhari Memorial Complex** | 4-language platform · Payme / OFB payments · headless CMS · Docker |
 | **AI Voice Assistant** | Wake-word detection · multilingual STT · LLM orchestration · computer vision |
 | **Bots &amp; systems** | Telegram / Discord bots · billing systems · game-club management software |
 
